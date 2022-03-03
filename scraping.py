@@ -13,7 +13,6 @@ def scrape_all():
     browser = Browser('chrome', **executable_path, headless=False)
 
     news_title, news_paragraph = mars_news(browser)
-    hemispheres = hemisphere_data(browser)
 
     # Run all scraping functions and store results in dictionary
     data = {
