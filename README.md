@@ -1,5 +1,6 @@
-# Mission-to-Mars
-Module 10 Repository
+# Module 10: Mission to Mars
+In this module we are developing code to scrap full-resolution images of mars hemispheres, along with the titles of each, and adding it to the scraping function that we have built to pull recent mars articles (title and summary), recent mars photos, and mars facts. Once this is established, we developed a web app which allows users to press a button in order to activate the scrape and pull the most recent data available. Finally, Bootstrap 3 components were added in order to make the html component seamless for mobile users. Please see the screen shots below for the web and mobile elements   
+
 
 ![Web 1](https://github.com/kjminges/Mission-to-Mars/blob/main/images/Web1.png)
 
